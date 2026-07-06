@@ -27,7 +27,7 @@
 - Data Structures & Algorithms  
 - Full Stack Development  
 - Backend Systems & APIs  
-- System Design Fundamentals  
+- AI/ML 
 
 ---
 
